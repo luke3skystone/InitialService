@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.org/luke3skystone/InitialService.svg?branch=master)](https://travis-ci.org/luke3skystone/InitialService)
+[![Build Status](https://travis-ci.org/luke3skystone/InitialService.svg?branch=master)](https://travis-ci.org/luke3skystone/InitialService)[![codecov](https://codecov.io/gh/luke3skystone/InitialService/branch/master/graph/badge.svg)](https://codecov.io/gh/luke3skystone/InitialService)
 Shows initials
